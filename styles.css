@@ -236,6 +236,10 @@ footer {
     text-align: left;
   }
 
+  .card-1{
+    padding-bottom: 50%;
+  }
+
   /* ... Your existing styles ... */
 
   /* Keyframes for card animation */
